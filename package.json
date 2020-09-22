@@ -4,10 +4,10 @@
   "version": "0.0.2",
   "description": "航拍上传系统",
   "keywords": [],
-  "manifestUrl": "https://github.com/cacabebe/autoUpdate/raw/master/package.json",
+  "manifestUrl": "https://github.com/cacabebe/uploadVersionTest/raw/master/package.json",
   "packages": {
     "win": {
-      "url": "https://github.com/cacabebe/autoUpdate/archive/master.zip"
+      "url": "https://github.com/cacabebe/uploadVersionTest/raw/master/SonicAlbumUpload.zip"
     }
   },
   "window": {
